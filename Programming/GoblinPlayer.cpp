@@ -1,3 +1,5 @@
+// This awesome game was created by me Albin!
+
 #include <iostream>
 #include <cmath>
 #include <random>
